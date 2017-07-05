@@ -41,7 +41,21 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity  {
 
-  public void getStarted(View view){
+
+
+
+    public void redirectActivity(){
+
+        if(ParseUser.getCurrentUser().get("riderOrdriver").equals("rider")){
+
+            Intent intent = new Intent(getApplicationContext(),RiderActivity.class);
+
+            startActivity(intent);
+
+        }
+    }
+
+   public void getStarted(View view){
 
       Switch userTypeSwitch = (Switch) findViewById(R.id.userTypeSwitch);
 
@@ -56,7 +70,16 @@ public class MainActivity extends AppCompatActivity  {
 
       ParseUser.getCurrentUser().put("riderOrdriver",userType);
 
-      Log.i("Info","Redirecting as "+userType);
+       ParseUser.getCurrentUser().saveInBackground(new SaveCallback() {
+           @Override
+           public void done(ParseException e) {
+
+
+               redirectActivity();
+
+           }
+       });
+
 
   }
 
@@ -91,6 +114,8 @@ public class MainActivity extends AppCompatActivity  {
           if(ParseUser.getCurrentUser().get("riderOrdriver")!=null){
 
               Log.i("Info","Redirecting as "+ParseUser.getCurrentUser().get("riderOrdriver"));
+
+              redirectActivity();
           }
       }
 

@@ -6,18 +6,18 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 109,
-                    "endOffset": 160
+                    "endOffset": 210
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 276,
                         "endColumn": 109,
-                        "endOffset": 396
+                        "endOffset": 381
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 165,
-                    "endColumn": 101,
-                    "endOffset": 262
+                    "startOffset": 215,
+                    "endColumn": 107,
+                    "endOffset": 318
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 401,
-                        "endColumn": 101,
-                        "endOffset": 498
+                        "startOffset": 386,
+                        "endColumn": 107,
+                        "endOffset": 489
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 267,
-                    "endColumn": 104,
-                    "endOffset": 367
+                    "startOffset": 323,
+                    "endColumn": 122,
+                    "endOffset": 441
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 503,
-                        "endColumn": 104,
-                        "endOffset": 603
+                        "startOffset": 494,
+                        "endColumn": 122,
+                        "endOffset": 612
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 372,
-                    "endColumn": 86,
-                    "endOffset": 454
+                    "startOffset": 446,
+                    "endColumn": 101,
+                    "endOffset": 543
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 608,
-                        "endColumn": 86,
-                        "endOffset": 690
+                        "startOffset": 617,
+                        "endColumn": 101,
+                        "endOffset": 714
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 459,
-                    "endColumn": 103,
-                    "endOffset": 558
+                    "startOffset": 548,
+                    "endColumn": 104,
+                    "endOffset": 648
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 695,
-                        "endColumn": 103,
-                        "endOffset": 794
+                        "startOffset": 719,
+                        "endColumn": 104,
+                        "endOffset": 819
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 563,
-                    "endColumn": 115,
-                    "endOffset": 674
+                    "startOffset": 653,
+                    "endColumn": 86,
+                    "endOffset": 735
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 799,
-                        "endColumn": 115,
-                        "endOffset": 910
+                        "startOffset": 824,
+                        "endColumn": 86,
+                        "endOffset": 906
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 679,
-                    "endColumn": 102,
-                    "endOffset": 777
+                    "startOffset": 740,
+                    "endColumn": 103,
+                    "endOffset": 839
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 915,
-                        "endColumn": 102,
-                        "endOffset": 1013
+                        "startOffset": 911,
+                        "endColumn": 103,
+                        "endOffset": 1010
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 782,
-                    "endColumn": 108,
-                    "endOffset": 886
+                    "startOffset": 844,
+                    "endColumn": 115,
+                    "endOffset": 955
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1018,
-                        "endColumn": 108,
-                        "endOffset": 1122
+                        "startOffset": 1015,
+                        "endColumn": 115,
+                        "endOffset": 1126
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 891,
-                    "endColumn": 100,
-                    "endOffset": 987
+                    "startOffset": 960,
+                    "endColumn": 85,
+                    "endOffset": 1041
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1127,
-                        "endColumn": 100,
-                        "endOffset": 1223
+                        "startOffset": 1131,
+                        "endColumn": 85,
+                        "endOffset": 1212
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 992,
-                    "endColumn": 103,
-                    "endOffset": 1091
+                    "startOffset": 1046,
+                    "endColumn": 102,
+                    "endOffset": 1144
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1228,
-                        "endColumn": 103,
-                        "endOffset": 1327
+                        "startOffset": 1217,
+                        "endColumn": 102,
+                        "endOffset": 1315
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1096,
-                    "endColumn": 107,
-                    "endOffset": 1199
+                    "startOffset": 1149,
+                    "endColumn": 108,
+                    "endOffset": 1253
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1332,
-                        "endColumn": 107,
-                        "endOffset": 1435
+                        "startOffset": 1320,
+                        "endColumn": 108,
+                        "endOffset": 1424
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1204,
-                    "endColumn": 107,
-                    "endOffset": 1307
+                    "startOffset": 1258,
+                    "endColumn": 100,
+                    "endOffset": 1354
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1440,
-                        "endColumn": 107,
-                        "endOffset": 1543
+                        "startOffset": 1429,
+                        "endColumn": 100,
+                        "endOffset": 1525
                     }
                 }
             },
@@ -234,18 +234,1405 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1312,
-                    "endColumn": 122,
-                    "endOffset": 1430
+                    "startOffset": 1359,
+                    "endColumn": 103,
+                    "endOffset": 1458
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-in\\values-in.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1548,
+                        "startOffset": 1530,
+                        "endColumn": 103,
+                        "endOffset": 1629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1463,
+                    "endColumn": 107,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1634,
+                        "endColumn": 107,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endColumn": 107,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 107,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endColumn": 122,
+                    "endOffset": 1797
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1850,
                         "endColumn": 122,
-                        "endOffset": 1666
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1802,
+                    "endColumn": 98,
+                    "endOffset": 1896
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 98,
+                        "endOffset": 2067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1901,
+                    "endColumn": 100,
+                    "endOffset": 1997
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 100,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2002,
+                    "endColumn": 92,
+                    "endOffset": 2090
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 92,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2095,
+                    "endColumn": 119,
+                    "endOffset": 2210
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 119,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2215,
+                    "endColumn": 92,
+                    "endOffset": 2303
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 92,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2308,
+                    "endColumn": 112,
+                    "endOffset": 2416
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 112,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endColumn": 100,
+                    "endOffset": 2517
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 864,
+                        "endColumn": 100,
+                        "endOffset": 960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2522,
+                    "endColumn": 75,
+                    "endOffset": 2593
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 75,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2598,
+                    "endColumn": 92,
+                    "endOffset": 2686
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 92,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2691,
+                    "endColumn": 95,
+                    "endOffset": 2782
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endColumn": 95,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2787,
+                    "endColumn": 107,
+                    "endOffset": 2890
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 107,
+                        "endOffset": 1333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2895,
+                    "endColumn": 75,
+                    "endOffset": 2966
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1338,
+                        "endColumn": 75,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2971,
+                    "endColumn": 137,
+                    "endOffset": 3104
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 137,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3109,
+                    "endColumn": 138,
+                    "endOffset": 3243
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 138,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3248,
+                    "endColumn": 105,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 105,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 73,
+                    "endOffset": 3423
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 73,
+                        "endOffset": 1483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3428,
+                    "endColumn": 73,
+                    "endOffset": 3497
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1488,
+                        "endColumn": 73,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3502,
+                    "endColumn": 82,
+                    "endOffset": 3580
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 82,
+                        "endOffset": 1640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3585,
+                    "endColumn": 99,
+                    "endOffset": 3680
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1645,
+                        "endColumn": 99,
+                        "endOffset": 1740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3685,
+                    "endColumn": 102,
+                    "endOffset": 3783
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1745,
+                        "endColumn": 102,
+                        "endOffset": 1843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3788,
+                    "endColumn": 97,
+                    "endOffset": 3881
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1848,
+                        "endColumn": 97,
+                        "endOffset": 1941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3886,
+                    "endColumn": 98,
+                    "endOffset": 3980
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1946,
+                        "endColumn": 98,
+                        "endOffset": 2040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3985,
+                    "endColumn": 98,
+                    "endOffset": 4079
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2045,
+                        "endColumn": 98,
+                        "endOffset": 2139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4084,
+                    "endColumn": 76,
+                    "endOffset": 4156
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2144,
+                        "endColumn": 76,
+                        "endOffset": 2216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4161,
+                    "endColumn": 107,
+                    "endOffset": 4264
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2221,
+                        "endColumn": 107,
+                        "endOffset": 2324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4269,
+                    "endColumn": 96,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2329,
+                        "endColumn": 96,
+                        "endOffset": 2421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 97,
+                    "endOffset": 4459
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2426,
+                        "endColumn": 97,
+                        "endOffset": 2519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4464,
+                    "endColumn": 143,
+                    "endOffset": 4603
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2524,
+                        "endColumn": 143,
+                        "endOffset": 2663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4608,
+                    "endColumn": 126,
+                    "endOffset": 4730
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2668,
+                        "endColumn": 126,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4735,
+                    "endColumn": 124,
+                    "endOffset": 4855
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endColumn": 124,
+                        "endOffset": 2915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4860,
+                    "endColumn": 124,
+                    "endOffset": 4980
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2920,
+                        "endColumn": 124,
+                        "endOffset": 3040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4985,
+                    "endColumn": 99,
+                    "endOffset": 5080
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3045,
+                        "endColumn": 99,
+                        "endOffset": 3140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5085,
+                    "endColumn": 91,
+                    "endOffset": 5172
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3145,
+                        "endColumn": 91,
+                        "endOffset": 3232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5177,
+                    "endColumn": 103,
+                    "endOffset": 5276
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3237,
+                        "endColumn": 103,
+                        "endOffset": 3336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5281,
+                    "endColumn": 78,
+                    "endOffset": 5355
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3341,
+                        "endColumn": 78,
+                        "endOffset": 3415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5360,
+                    "endColumn": 108,
+                    "endOffset": 5464
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 108,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5469,
+                    "endColumn": 195,
+                    "endOffset": 5660
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 195,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5665,
+                    "endColumn": 127,
+                    "endOffset": 5788
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 127,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5793,
+                    "endColumn": 129,
+                    "endOffset": 5918
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 129,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5923,
+                    "endColumn": 216,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 216,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 217,
+                    "endOffset": 6353
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 217,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6358,
+                    "endColumn": 128,
+                    "endOffset": 6482
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endColumn": 128,
+                        "endOffset": 1451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6487,
+                    "endColumn": 134,
+                    "endOffset": 6617
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1456,
+                        "endColumn": 134,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6622,
+                    "endColumn": 247,
+                    "endOffset": 6865
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 247,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6870,
+                    "endColumn": 250,
+                    "endOffset": 7116
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1591,
+                        "endColumn": 250,
+                        "endOffset": 1837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7121,
+                    "endColumn": 122,
+                    "endOffset": 7239
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1842,
+                        "endColumn": 122,
+                        "endOffset": 1960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7244,
+                    "endColumn": 108,
+                    "endOffset": 7348
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1965,
+                        "endColumn": 108,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7353,
+                    "endColumn": 194,
+                    "endOffset": 7543
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 194,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7548,
+                    "endColumn": 127,
+                    "endOffset": 7671
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2269,
+                        "endColumn": 127,
+                        "endOffset": 2392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7676,
+                    "endColumn": 213,
+                    "endOffset": 7885
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2397,
+                        "endColumn": 213,
+                        "endOffset": 2606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7890,
+                    "endColumn": 138,
+                    "endOffset": 8024
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2611,
+                        "endColumn": 138,
+                        "endOffset": 2745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 8029,
+                    "endColumn": 173,
+                    "endOffset": 8198
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2750,
+                        "endColumn": 173,
+                        "endOffset": 2919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 8203,
+                    "endColumn": 93,
+                    "endOffset": 8292
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2924,
+                        "endColumn": 93,
+                        "endOffset": 3013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 8297,
+                    "endColumn": 89,
+                    "endOffset": 8382
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3018,
+                        "endColumn": 89,
+                        "endOffset": 3103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8387,
+                    "endColumn": 107,
+                    "endOffset": 8490
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3108,
+                        "endColumn": 107,
+                        "endOffset": 3211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8495,
+                    "endColumn": 109,
+                    "endOffset": 8600
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 109,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8605,
+                    "endColumn": 112,
+                    "endOffset": 8713
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endColumn": 112,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8718,
+                    "endColumn": 110,
+                    "endOffset": 8824
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 110,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8829,
+                    "endColumn": 112,
+                    "endOffset": 8937
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 112,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8942,
+                    "endColumn": 130,
+                    "endOffset": 9068
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 130,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 9073,
+                    "endColumn": 94,
+                    "endOffset": 9163
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 94,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 9168,
+                    "endColumn": 94,
+                    "endOffset": 9258
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 94,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 9263,
+                    "endColumn": 116,
+                    "endOffset": 9375
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 116,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 9380,
+                    "endColumn": 107,
+                    "endOffset": 9483
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 107,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 9488,
+                    "endColumn": 85,
+                    "endOffset": 9569
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 85,
+                        "endOffset": 1352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 9574,
+                    "endColumn": 95,
+                    "endOffset": 9665
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1357,
+                        "endColumn": 95,
+                        "endOffset": 1448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9670,
+                    "endColumn": 107,
+                    "endOffset": 9773
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 107,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9778,
+                    "endColumn": 97,
+                    "endOffset": 9871
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 97,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9876,
+                    "endColumn": 100,
+                    "endOffset": 9972
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2072,
+                        "endColumn": 100,
+                        "endOffset": 2168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9977,
+                    "endColumn": 106,
+                    "endOffset": 10079
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.4.0\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 106,
+                        "endOffset": 390
                     }
                 }
             }
@@ -631,6 +2018,1645 @@
                         "startOffset": 2012,
                         "endColumn": 100,
                         "endOffset": 2108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 109,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 109,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 107,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 107,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 122,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 122,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 101,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 101,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 104,
+                    "endOffset": 648
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 104,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 653,
+                    "endColumn": 86,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 86,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 740,
+                    "endColumn": 103,
+                    "endOffset": 839
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 103,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 844,
+                    "endColumn": 115,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 115,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 85,
+                    "endOffset": 1041
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endColumn": 85,
+                        "endOffset": 1212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1046,
+                    "endColumn": 102,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1217,
+                        "endColumn": 102,
+                        "endOffset": 1315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 108,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1320,
+                        "endColumn": 108,
+                        "endOffset": 1424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 100,
+                    "endOffset": 1354
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1429,
+                        "endColumn": 100,
+                        "endOffset": 1525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1359,
+                    "endColumn": 103,
+                    "endOffset": 1458
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1530,
+                        "endColumn": 103,
+                        "endOffset": 1629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1463,
+                    "endColumn": 107,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1634,
+                        "endColumn": 107,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endColumn": 107,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 107,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endColumn": 122,
+                    "endOffset": 1797
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1850,
+                        "endColumn": 122,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1802,
+                    "endColumn": 98,
+                    "endOffset": 1896
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 98,
+                        "endOffset": 2067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1901,
+                    "endColumn": 100,
+                    "endOffset": 1997
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 100,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2002,
+                    "endColumn": 92,
+                    "endOffset": 2090
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 92,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2095,
+                    "endColumn": 119,
+                    "endOffset": 2210
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 119,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2215,
+                    "endColumn": 92,
+                    "endOffset": 2303
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 92,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2308,
+                    "endColumn": 112,
+                    "endOffset": 2416
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 112,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endColumn": 100,
+                    "endOffset": 2517
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 864,
+                        "endColumn": 100,
+                        "endOffset": 960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2522,
+                    "endColumn": 75,
+                    "endOffset": 2593
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 75,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2598,
+                    "endColumn": 92,
+                    "endOffset": 2686
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 92,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2691,
+                    "endColumn": 95,
+                    "endOffset": 2782
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endColumn": 95,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2787,
+                    "endColumn": 107,
+                    "endOffset": 2890
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 107,
+                        "endOffset": 1333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2895,
+                    "endColumn": 75,
+                    "endOffset": 2966
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1338,
+                        "endColumn": 75,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2971,
+                    "endColumn": 137,
+                    "endOffset": 3104
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\738002c95e9ade3324df8c5fb827be8e4bd6aa4d\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 137,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3109,
+                    "endColumn": 138,
+                    "endOffset": 3243
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\738002c95e9ade3324df8c5fb827be8e4bd6aa4d\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 138,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3248,
+                    "endColumn": 105,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\738002c95e9ade3324df8c5fb827be8e4bd6aa4d\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 105,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 73,
+                    "endOffset": 3423
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 73,
+                        "endOffset": 1483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3428,
+                    "endColumn": 73,
+                    "endOffset": 3497
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1488,
+                        "endColumn": 73,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3502,
+                    "endColumn": 82,
+                    "endOffset": 3580
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 82,
+                        "endOffset": 1640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3585,
+                    "endColumn": 99,
+                    "endOffset": 3680
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1645,
+                        "endColumn": 99,
+                        "endOffset": 1740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3685,
+                    "endColumn": 102,
+                    "endOffset": 3783
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1745,
+                        "endColumn": 102,
+                        "endOffset": 1843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3788,
+                    "endColumn": 97,
+                    "endOffset": 3881
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1848,
+                        "endColumn": 97,
+                        "endOffset": 1941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3886,
+                    "endColumn": 98,
+                    "endOffset": 3980
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1946,
+                        "endColumn": 98,
+                        "endOffset": 2040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3985,
+                    "endColumn": 98,
+                    "endOffset": 4079
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2045,
+                        "endColumn": 98,
+                        "endOffset": 2139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4084,
+                    "endColumn": 76,
+                    "endOffset": 4156
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2144,
+                        "endColumn": 76,
+                        "endOffset": 2216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4161,
+                    "endColumn": 107,
+                    "endOffset": 4264
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2221,
+                        "endColumn": 107,
+                        "endOffset": 2324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4269,
+                    "endColumn": 96,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2329,
+                        "endColumn": 96,
+                        "endOffset": 2421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 97,
+                    "endOffset": 4459
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2426,
+                        "endColumn": 97,
+                        "endOffset": 2519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4464,
+                    "endColumn": 143,
+                    "endOffset": 4603
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2524,
+                        "endColumn": 143,
+                        "endOffset": 2663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4608,
+                    "endColumn": 126,
+                    "endOffset": 4730
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2668,
+                        "endColumn": 126,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4735,
+                    "endColumn": 124,
+                    "endOffset": 4855
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endColumn": 124,
+                        "endOffset": 2915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4860,
+                    "endColumn": 124,
+                    "endOffset": 4980
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2920,
+                        "endColumn": 124,
+                        "endOffset": 3040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4985,
+                    "endColumn": 99,
+                    "endOffset": 5080
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3045,
+                        "endColumn": 99,
+                        "endOffset": 3140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5085,
+                    "endColumn": 91,
+                    "endOffset": 5172
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3145,
+                        "endColumn": 91,
+                        "endOffset": 3232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5177,
+                    "endColumn": 103,
+                    "endOffset": 5276
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3237,
+                        "endColumn": 103,
+                        "endOffset": 3336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5281,
+                    "endColumn": 78,
+                    "endOffset": 5355
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3341,
+                        "endColumn": 78,
+                        "endOffset": 3415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5360,
+                    "endColumn": 108,
+                    "endOffset": 5464
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 108,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5469,
+                    "endColumn": 195,
+                    "endOffset": 5660
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 195,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5665,
+                    "endColumn": 127,
+                    "endOffset": 5788
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 127,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5793,
+                    "endColumn": 129,
+                    "endOffset": 5918
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 129,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5923,
+                    "endColumn": 216,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 216,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 217,
+                    "endOffset": 6353
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 217,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6358,
+                    "endColumn": 128,
+                    "endOffset": 6482
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endColumn": 128,
+                        "endOffset": 1451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6487,
+                    "endColumn": 134,
+                    "endOffset": 6617
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1456,
+                        "endColumn": 134,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6622,
+                    "endColumn": 247,
+                    "endOffset": 6865
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\eb3938549d53fb0ccbf818c473f4b0149aa59d74\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 247,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6870,
+                    "endColumn": 250,
+                    "endOffset": 7116
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1591,
+                        "endColumn": 250,
+                        "endOffset": 1837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7121,
+                    "endColumn": 122,
+                    "endOffset": 7239
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1842,
+                        "endColumn": 122,
+                        "endOffset": 1960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7244,
+                    "endColumn": 108,
+                    "endOffset": 7348
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1965,
+                        "endColumn": 108,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7353,
+                    "endColumn": 194,
+                    "endOffset": 7543
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 194,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7548,
+                    "endColumn": 127,
+                    "endOffset": 7671
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2269,
+                        "endColumn": 127,
+                        "endOffset": 2392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7676,
+                    "endColumn": 213,
+                    "endOffset": 7885
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2397,
+                        "endColumn": 213,
+                        "endOffset": 2606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7890,
+                    "endColumn": 138,
+                    "endOffset": 8024
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2611,
+                        "endColumn": 138,
+                        "endOffset": 2745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 8029,
+                    "endColumn": 173,
+                    "endOffset": 8198
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2750,
+                        "endColumn": 173,
+                        "endOffset": 2919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 8203,
+                    "endColumn": 93,
+                    "endOffset": 8292
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2924,
+                        "endColumn": 93,
+                        "endOffset": 3013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 8297,
+                    "endColumn": 89,
+                    "endOffset": 8382
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3018,
+                        "endColumn": 89,
+                        "endOffset": 3103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8387,
+                    "endColumn": 107,
+                    "endOffset": 8490
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3108,
+                        "endColumn": 107,
+                        "endOffset": 3211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8495,
+                    "endColumn": 109,
+                    "endOffset": 8600
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 109,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8605,
+                    "endColumn": 112,
+                    "endOffset": 8713
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endColumn": 112,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8718,
+                    "endColumn": 110,
+                    "endOffset": 8824
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 110,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8829,
+                    "endColumn": 112,
+                    "endOffset": 8937
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 112,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8942,
+                    "endColumn": 130,
+                    "endOffset": 9068
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 130,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 9073,
+                    "endColumn": 94,
+                    "endOffset": 9163
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 94,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 9168,
+                    "endColumn": 94,
+                    "endOffset": 9258
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 94,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 9263,
+                    "endColumn": 116,
+                    "endOffset": 9375
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 116,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 9380,
+                    "endColumn": 107,
+                    "endOffset": 9483
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 107,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 9488,
+                    "endColumn": 85,
+                    "endOffset": 9569
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 85,
+                        "endOffset": 1352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 9574,
+                    "endColumn": 95,
+                    "endOffset": 9665
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1357,
+                        "endColumn": 95,
+                        "endOffset": 1448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9670,
+                    "endColumn": 107,
+                    "endOffset": 9773
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\47160b54368668c2ee1acc23e4fdcf21e352a85c\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 107,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9778,
+                    "endColumn": 97,
+                    "endOffset": 9871
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\47160b54368668c2ee1acc23e4fdcf21e352a85c\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 97,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9876,
+                    "endColumn": 100,
+                    "endOffset": 9972
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2072,
+                        "endColumn": 100,
+                        "endOffset": 2168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9977,
+                    "endColumn": 106,
+                    "endOffset": 10079
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\3e038cdb65957d86f3f06f02b47764ffe072fe43\\output\\res\\values-in\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 106,
+                        "endOffset": 390
                     }
                 }
             }

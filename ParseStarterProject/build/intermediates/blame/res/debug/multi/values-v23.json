@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+        "outputFile": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,253 @@
                     "endOffset": 185
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 134,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 74,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 74,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 86,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 86,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 104,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 104,
+                        "endOffset": 1803
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 134,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 74,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 74,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 86,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 86,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 104,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 104,
+                        "endOffset": 1803
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +276,7 @@
                     "endOffset": 320
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +295,7 @@
                     "endOffset": 395
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +314,7 @@
                     "endOffset": 482
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -88,7 +334,7 @@
                     "endOffset": 1272
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -109,7 +355,7 @@
                     "endOffset": 2074
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -129,7 +375,7 @@
                     "endOffset": 2179
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -148,7 +394,7 @@
                     "endOffset": 2294
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -167,7 +413,7 @@
                     "endOffset": 2401
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -186,7 +432,7 @@
                     "endOffset": 2514
                 },
                 "from": {
-                    "file": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml",
+                    "file": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,

@@ -1,43 +1,35 @@
 [
     {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
     },
     {
-        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
-        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_settings_light.xml"
     },
     {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -45,11 +37,15 @@
     },
     {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
@@ -57,107 +53,331 @@
     },
     {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
     },
     {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
     },
     {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\instagramlogo.png",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\src\\main\\res\\drawable\\instagramlogo.png"
     },
     {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
     },
     {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\instagramlogo.png",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\src\\main\\res\\drawable\\instagramlogo.png"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
     },
     {
-        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\738002c95e9ade3324df8c5fb827be8e4bd6aa4d\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\bcca1d9d5a308d13cf044e37642af5a7054b91ec\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\instagramlogo.png",
+        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\src\\main\\res\\drawable\\instagramlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
@@ -172,27 +392,43 @@
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\acer\\.android\\build-cache\\165c8a9e80abdcfd10315607f6d9aed7288e8677\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
     },
     {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\uberlogo.jpg",
         "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\src\\main\\res\\drawable\\uberlogo.jpg"
     },
     {
-        "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
         "merged": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "source": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
     }
 ]

@@ -11,13 +11,13 @@
                     "endOffset": 162
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 295,
+                        "startOffset": 280,
                         "endColumn": 111,
-                        "endOffset": 402
+                        "endOffset": 387
                     }
                 }
             },
@@ -26,17 +26,17 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 167,
-                    "endColumn": 111,
-                    "endOffset": 274
+                    "endColumn": 107,
+                    "endOffset": 270
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 407,
-                        "endColumn": 111,
-                        "endOffset": 514
+                        "startOffset": 392,
+                        "endColumn": 107,
+                        "endOffset": 495
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 279,
-                    "endColumn": 107,
-                    "endOffset": 382
+                    "startOffset": 275,
+                    "endColumn": 122,
+                    "endOffset": 393
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 519,
-                        "endColumn": 107,
-                        "endOffset": 622
+                        "startOffset": 500,
+                        "endColumn": 122,
+                        "endOffset": 618
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 387,
-                    "endColumn": 84,
-                    "endOffset": 467
+                    "startOffset": 398,
+                    "endColumn": 111,
+                    "endOffset": 505
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 627,
-                        "endColumn": 84,
-                        "endOffset": 707
+                        "startOffset": 623,
+                        "endColumn": 111,
+                        "endOffset": 730
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 472,
-                    "endColumn": 101,
-                    "endOffset": 569
+                    "startOffset": 510,
+                    "endColumn": 107,
+                    "endOffset": 613
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 712,
-                        "endColumn": 101,
-                        "endOffset": 809
+                        "startOffset": 735,
+                        "endColumn": 107,
+                        "endOffset": 838
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 574,
-                    "endColumn": 125,
-                    "endOffset": 695
+                    "startOffset": 618,
+                    "endColumn": 84,
+                    "endOffset": 698
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 814,
-                        "endColumn": 125,
-                        "endOffset": 935
+                        "startOffset": 843,
+                        "endColumn": 84,
+                        "endOffset": 923
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 700,
-                    "endColumn": 106,
-                    "endOffset": 802
+                    "startOffset": 703,
+                    "endColumn": 101,
+                    "endOffset": 800
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 940,
-                        "endColumn": 106,
-                        "endOffset": 1042
+                        "startOffset": 928,
+                        "endColumn": 101,
+                        "endOffset": 1025
                     }
                 }
             },
@@ -139,17 +139,17 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 807,
-                    "endColumn": 108,
-                    "endOffset": 911
+                    "startOffset": 805,
+                    "endColumn": 125,
+                    "endOffset": 926
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1047,
-                        "endColumn": 108,
+                        "startOffset": 1030,
+                        "endColumn": 125,
                         "endOffset": 1151
                     }
                 }
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 916,
-                    "endColumn": 98,
-                    "endOffset": 1010
+                    "startOffset": 931,
+                    "endColumn": 81,
+                    "endOffset": 1008
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
                         "startOffset": 1156,
-                        "endColumn": 98,
-                        "endOffset": 1250
+                        "endColumn": 81,
+                        "endOffset": 1233
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1015,
-                    "endColumn": 107,
-                    "endOffset": 1118
+                    "startOffset": 1013,
+                    "endColumn": 106,
+                    "endOffset": 1115
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1255,
-                        "endColumn": 107,
-                        "endOffset": 1358
+                        "startOffset": 1238,
+                        "endColumn": 106,
+                        "endOffset": 1340
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1123,
-                    "endColumn": 102,
-                    "endOffset": 1221
+                    "startOffset": 1120,
+                    "endColumn": 108,
+                    "endOffset": 1224
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1363,
-                        "endColumn": 102,
-                        "endOffset": 1461
+                        "startOffset": 1345,
+                        "endColumn": 108,
+                        "endOffset": 1449
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1226,
-                    "endColumn": 106,
-                    "endOffset": 1328
+                    "startOffset": 1229,
+                    "endColumn": 98,
+                    "endOffset": 1323
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1466,
-                        "endColumn": 106,
-                        "endOffset": 1568
+                        "startOffset": 1454,
+                        "endColumn": 98,
+                        "endOffset": 1548
                     }
                 }
             },
@@ -234,18 +234,322 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1333,
-                    "endColumn": 121,
-                    "endOffset": 1450
+                    "startOffset": 1328,
+                    "endColumn": 107,
+                    "endOffset": 1431
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1573,
+                        "startOffset": 1553,
+                        "endColumn": 107,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 102,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 102,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 106,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 106,
+                        "endOffset": 1866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 121,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1871,
                         "endColumn": 121,
-                        "endOffset": 1690
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endColumn": 99,
+                    "endOffset": 1863
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 99,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1868,
+                    "endColumn": 106,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 106,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 113,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 113,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2089,
+                    "endColumn": 110,
+                    "endOffset": 2195
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 110,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2200,
+                    "endColumn": 105,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 105,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 132,
+                    "endOffset": 2434
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 132,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2439,
+                    "endColumn": 95,
+                    "endOffset": 2530
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 95,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2535,
+                    "endColumn": 98,
+                    "endOffset": 2629
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 98,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2634,
+                    "endColumn": 125,
+                    "endOffset": 2755
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 125,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endColumn": 104,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 104,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endColumn": 86,
+                    "endOffset": 2947
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 86,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2952,
+                    "endColumn": 98,
+                    "endOffset": 3046
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1366,
+                        "endColumn": 98,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3051,
+                    "endColumn": 100,
+                    "endOffset": 3147
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 100,
+                        "endOffset": 2189
                     }
                 }
             }
@@ -631,6 +935,562 @@
                         "startOffset": 2033,
                         "endColumn": 100,
                         "endOffset": 2129
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 111,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 111,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 107,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 107,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 122,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 122,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 111,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 111,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 107,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 107,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 84,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 843,
+                        "endColumn": 84,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 101,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 101,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 125,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 125,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 81,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 81,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 106,
+                    "endOffset": 1115
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 106,
+                        "endOffset": 1340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1120,
+                    "endColumn": 108,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 108,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1229,
+                    "endColumn": 98,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1454,
+                        "endColumn": 98,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 107,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 107,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 102,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 102,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 106,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 106,
+                        "endOffset": 1866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 121,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1871,
+                        "endColumn": 121,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endColumn": 99,
+                    "endOffset": 1863
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 99,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1868,
+                    "endColumn": 106,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 106,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 113,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 113,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2089,
+                    "endColumn": 110,
+                    "endOffset": 2195
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 110,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2200,
+                    "endColumn": 105,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 105,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 132,
+                    "endOffset": 2434
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 132,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2439,
+                    "endColumn": 95,
+                    "endOffset": 2530
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 95,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2535,
+                    "endColumn": 98,
+                    "endOffset": 2629
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 98,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2634,
+                    "endColumn": 125,
+                    "endOffset": 2755
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 125,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endColumn": 104,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 104,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endColumn": 86,
+                    "endOffset": 2947
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 86,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2952,
+                    "endColumn": 98,
+                    "endOffset": 3046
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1366,
+                        "endColumn": 98,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3051,
+                    "endColumn": 100,
+                    "endOffset": 3147
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 100,
+                        "endOffset": 2189
                     }
                 }
             }

@@ -11,13 +11,13 @@
                     "endOffset": 160
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 295,
+                        "startOffset": 280,
                         "endColumn": 109,
-                        "endOffset": 400
+                        "endOffset": 385
                     }
                 }
             },
@@ -26,17 +26,17 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 165,
-                    "endColumn": 106,
-                    "endOffset": 267
+                    "endColumn": 107,
+                    "endOffset": 268
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 405,
-                        "endColumn": 106,
-                        "endOffset": 507
+                        "startOffset": 390,
+                        "endColumn": 107,
+                        "endOffset": 493
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 272,
-                    "endColumn": 106,
-                    "endOffset": 374
+                    "startOffset": 273,
+                    "endColumn": 122,
+                    "endOffset": 391
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 512,
-                        "endColumn": 106,
-                        "endOffset": 614
+                        "startOffset": 498,
+                        "endColumn": 122,
+                        "endOffset": 616
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 379,
-                    "endColumn": 87,
-                    "endOffset": 462
+                    "startOffset": 396,
+                    "endColumn": 106,
+                    "endOffset": 498
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 619,
-                        "endColumn": 87,
-                        "endOffset": 702
+                        "startOffset": 621,
+                        "endColumn": 106,
+                        "endOffset": 723
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 467,
-                    "endColumn": 104,
-                    "endOffset": 567
+                    "startOffset": 503,
+                    "endColumn": 106,
+                    "endOffset": 605
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 707,
-                        "endColumn": 104,
-                        "endOffset": 807
+                        "startOffset": 728,
+                        "endColumn": 106,
+                        "endOffset": 830
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 572,
-                    "endColumn": 115,
-                    "endOffset": 683
+                    "startOffset": 610,
+                    "endColumn": 87,
+                    "endOffset": 693
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 812,
-                        "endColumn": 115,
-                        "endOffset": 923
+                        "startOffset": 835,
+                        "endColumn": 87,
+                        "endOffset": 918
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 688,
-                    "endColumn": 108,
-                    "endOffset": 792
+                    "startOffset": 698,
+                    "endColumn": 104,
+                    "endOffset": 798
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 928,
-                        "endColumn": 108,
-                        "endOffset": 1032
+                        "startOffset": 923,
+                        "endColumn": 104,
+                        "endOffset": 1023
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 797,
-                    "endColumn": 104,
-                    "endOffset": 897
+                    "startOffset": 803,
+                    "endColumn": 115,
+                    "endOffset": 914
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1037,
-                        "endColumn": 104,
-                        "endOffset": 1137
+                        "startOffset": 1028,
+                        "endColumn": 115,
+                        "endOffset": 1139
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 902,
-                    "endColumn": 97,
-                    "endOffset": 995
+                    "startOffset": 919,
+                    "endColumn": 83,
+                    "endOffset": 998
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1142,
-                        "endColumn": 97,
-                        "endOffset": 1235
+                        "startOffset": 1144,
+                        "endColumn": 83,
+                        "endOffset": 1223
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1000,
-                    "endColumn": 109,
-                    "endOffset": 1105
+                    "startOffset": 1003,
+                    "endColumn": 108,
+                    "endOffset": 1107
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1240,
-                        "endColumn": 109,
-                        "endOffset": 1345
+                        "startOffset": 1228,
+                        "endColumn": 108,
+                        "endOffset": 1332
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1110,
-                    "endColumn": 98,
-                    "endOffset": 1204
+                    "startOffset": 1112,
+                    "endColumn": 104,
+                    "endOffset": 1212
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1350,
-                        "endColumn": 98,
-                        "endOffset": 1444
+                        "startOffset": 1337,
+                        "endColumn": 104,
+                        "endOffset": 1437
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1209,
-                    "endColumn": 105,
+                    "startOffset": 1217,
+                    "endColumn": 97,
                     "endOffset": 1310
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1449,
-                        "endColumn": 105,
-                        "endOffset": 1550
+                        "startOffset": 1442,
+                        "endColumn": 97,
+                        "endOffset": 1535
                     }
                 }
             },
@@ -235,17 +235,321 @@
                     "startLine": 14,
                     "startColumn": 4,
                     "startOffset": 1315,
-                    "endColumn": 120,
-                    "endOffset": 1431
+                    "endColumn": 109,
+                    "endOffset": 1420
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1555,
+                        "startOffset": 1540,
+                        "endColumn": 109,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1425,
+                    "endColumn": 98,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 98,
+                        "endOffset": 1744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 105,
+                    "endOffset": 1625
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1749,
+                        "endColumn": 105,
+                        "endOffset": 1850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1630,
+                    "endColumn": 120,
+                    "endOffset": 1746
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1855,
                         "endColumn": 120,
-                        "endOffset": 1671
+                        "endOffset": 1971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1751,
+                    "endColumn": 98,
+                    "endOffset": 1845
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1976,
+                        "endColumn": 98,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1850,
+                    "endColumn": 104,
+                    "endOffset": 1950
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 104,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1955,
+                    "endColumn": 110,
+                    "endOffset": 2061
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 110,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2066,
+                    "endColumn": 107,
+                    "endOffset": 2169
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 107,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2174,
+                    "endColumn": 107,
+                    "endOffset": 2277
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 107,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2282,
+                    "endColumn": 127,
+                    "endOffset": 2405
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 127,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2410,
+                    "endColumn": 96,
+                    "endOffset": 2502
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 96,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2507,
+                    "endColumn": 100,
+                    "endOffset": 2603
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 100,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2608,
+                    "endColumn": 120,
+                    "endOffset": 2724
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 120,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2729,
+                    "endColumn": 110,
+                    "endOffset": 2835
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 110,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2840,
+                    "endColumn": 86,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 86,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endColumn": 91,
+                    "endOffset": 3014
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1359,
+                        "endColumn": 91,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3019,
+                    "endColumn": 100,
+                    "endOffset": 3115
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endColumn": 100,
+                        "endOffset": 2171
                     }
                 }
             }
@@ -631,6 +935,562 @@
                         "startOffset": 2026,
                         "endColumn": 100,
                         "endOffset": 2122
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si-rLK\\values-si-rLK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 109,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 109,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 107,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 107,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 122,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 122,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 106,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 106,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 106,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 106,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 87,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 835,
+                        "endColumn": 87,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 104,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 923,
+                        "endColumn": 104,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 115,
+                    "endOffset": 914
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 115,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 919,
+                    "endColumn": 83,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1144,
+                        "endColumn": 83,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 108,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 108,
+                        "endOffset": 1332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endColumn": 104,
+                    "endOffset": 1212
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 104,
+                        "endOffset": 1437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1217,
+                    "endColumn": 97,
+                    "endOffset": 1310
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1442,
+                        "endColumn": 97,
+                        "endOffset": 1535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1315,
+                    "endColumn": 109,
+                    "endOffset": 1420
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endColumn": 109,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1425,
+                    "endColumn": 98,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 98,
+                        "endOffset": 1744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 105,
+                    "endOffset": 1625
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1749,
+                        "endColumn": 105,
+                        "endOffset": 1850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1630,
+                    "endColumn": 120,
+                    "endOffset": 1746
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1855,
+                        "endColumn": 120,
+                        "endOffset": 1971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1751,
+                    "endColumn": 98,
+                    "endOffset": 1845
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1976,
+                        "endColumn": 98,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1850,
+                    "endColumn": 104,
+                    "endOffset": 1950
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 104,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1955,
+                    "endColumn": 110,
+                    "endOffset": 2061
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 110,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2066,
+                    "endColumn": 107,
+                    "endOffset": 2169
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 107,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2174,
+                    "endColumn": 107,
+                    "endOffset": 2277
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 107,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2282,
+                    "endColumn": 127,
+                    "endOffset": 2405
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 127,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2410,
+                    "endColumn": 96,
+                    "endOffset": 2502
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 96,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2507,
+                    "endColumn": 100,
+                    "endOffset": 2603
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 100,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2608,
+                    "endColumn": 120,
+                    "endOffset": 2724
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 120,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2729,
+                    "endColumn": 110,
+                    "endOffset": 2835
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 110,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2840,
+                    "endColumn": 86,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 86,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endColumn": 91,
+                    "endOffset": 3014
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\a5253518e22470ec52d8a18a0f0438281d9e4cee\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1359,
+                        "endColumn": 91,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3019,
+                    "endColumn": 100,
+                    "endOffset": 3115
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endColumn": 100,
+                        "endOffset": 2171
                     }
                 }
             }

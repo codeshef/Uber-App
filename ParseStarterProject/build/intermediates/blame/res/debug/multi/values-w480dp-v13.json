@@ -11,13 +11,13 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-w480dp\\values-w480dp.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-w480dp\\values-w480dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 293,
+                        "startOffset": 278,
                         "endColumn": 61,
-                        "endOffset": 350
+                        "endOffset": 335
                     }
                 }
             },
@@ -30,13 +30,56 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-w480dp\\values-w480dp.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-w480dp\\values-w480dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 594,
+                        "startOffset": 564,
                         "endColumn": 71,
-                        "endOffset": 661
+                        "endOffset": 631
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 61,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 71,
+                        "endOffset": 631
                     }
                 }
             }

@@ -1,5 +1,31 @@
 [
     {
+        "outputFile": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\75dd1ec1e449b58dba0ed9ab83889c87ab200c30\\output\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 554
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
@@ -35,17 +61,17 @@
                     "startOffset": 55,
                     "endLine": 6,
                     "endColumn": 13,
-                    "endOffset": 325
+                    "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-hdpi\\values-hdpi.xml",
+                    "file": "C:\\Users\\acer\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hdpi\\values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 297,
+                        "startOffset": 282,
                         "endLine": 8,
                         "endColumn": 13,
-                        "endOffset": 567
+                        "endOffset": 554
                     }
                 }
             }

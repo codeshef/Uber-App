@@ -44,7 +44,4 @@
     <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="android:Widget">
         <item name="android:layout_marginStart">@dimen/abc_dropdownitem_text_padding_left</item>
     </style>
-    <style name="RtlOverlay.Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation">
-        <item name="android:paddingStart">@dimen/abc_action_bar_navigation_padding_start_material</item>
-    </style>
 </resources>
